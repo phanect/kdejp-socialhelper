@@ -1,0 +1,17 @@
+{
+  "name": "kdejp-social-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jumpei Ogawa",
+  "private": true,
+  "dependencies": {
+    "fb": "^2.0.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "node-fetch": "^1.6.3"
+  }
+}
